@@ -1,5 +1,7 @@
 # Project Title
 
+----
+
 ## Subtitle 1
 
 This is where you describe what the project does. Include an overview of the key features, purpose, or background information to give the reader context on the project.
