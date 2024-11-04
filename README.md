@@ -1,6 +1,6 @@
 # Project Title
 
-----
+----------
 
 ## Subtitle 1
 
