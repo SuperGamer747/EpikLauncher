@@ -1,13 +1,14 @@
-# Project Title
-
-----------
-
-## Subtitle 1
-
-This is where you describe what the project does. Include an overview of the key features, purpose, or background information to give the reader context on the project.
+# Epik Launcher
 
 ---
 
-## Subtitle 2
+## What is it?
 
-Add detailed information here, such as installation instructions or requirements. Include clear steps if any setup is necessary for running or testing the project.
+Epik Launcher is a free offline Minecraft Launcher.
+This repository has all the files needed!
+
+---
+
+## Downloads
+
+Downloads coming soon!
