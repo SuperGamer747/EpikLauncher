@@ -1,14 +1,14 @@
-# Epik Launcher
+# 🎮 Epik Launcher
 
 ---
 
-## What is it?
+## ❓ What is it?
 
-Epik Launcher is a free offline Minecraft Launcher.
-This repository has all the files needed!
+**Epik Launcher** is a free, offline Minecraft launcher.  
+This repository contains all the necessary files! 📁
 
 ---
 
-## Downloads
+## Downloads 📥
 
-Downloads coming soon!
+*Stay tuned for downloads coming soon!* ⏳
