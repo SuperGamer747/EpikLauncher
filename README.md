@@ -2,7 +2,7 @@
 
 ---
 
-## ❓ What is it?
+## What is it? ❓ 
 
 **Epik Launcher** is a free, offline Minecraft launcher.  
 This repository contains all the necessary files! 📁
